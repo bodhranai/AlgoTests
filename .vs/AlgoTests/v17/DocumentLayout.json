@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{37881604-7283-4D22-82BE-E25D770F7714}|AlgoTests\\AlgoTests.csproj|solutionrelative:algotests\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37881604-7283-4D22-82BE-E25D770F7714}|AlgoTests\\AlgoTests.csproj|c:\\users\\annan\\vscode\\algotests\\algotests\\housing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37881604-7283-4D22-82BE-E25D770F7714}|AlgoTests\\AlgoTests.csproj|C:\\Users\\AnnAn\\VSCode\\AlgoTests\\algotests\\housing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37881604-7283-4D22-82BE-E25D770F7714}|AlgoTests\\AlgoTests.csproj|solutionrelative:algotests\\housing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "AlgoTests\\Movies.cs",
               "ToolTip": "C:\\Users\\AnnAn\\VSCode\\AlgoTests\\AlgoTests\\Movies.cs",
               "RelativeToolTip": "AlgoTests\\Movies.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAgwDIAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwC8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T19:20:36.903Z",
               "EditorCaption": ""

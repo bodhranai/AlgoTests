@@ -43,7 +43,7 @@ namespace AlgoTests
             Assert.IsTrue(CompareLists<int>(actual, expected));
             
             
-            movieLengths = new int[] { 180, 40, 50, 80,70,70, 80 };
+            movieLengths = new int[] { 300,280, 40, 50, 80,70,70, 80 };
              flightLength = 240;
            
             //Act
@@ -75,9 +75,12 @@ namespace AlgoTests
                 else if (totalMovieLength > flightLength)
                 {
                     result.Clear();
-                    totalMovieLength = movieLengths[i-1];
+                    if (i > 0)
+                    {
+                        totalMovieLength = movieLengths[i - 1];
+                        result.Add(movieLengths[i - 1]);
+                    }
                     totalMovieLength += movieLengths[i];
-                    result.Add(movieLengths[i-1]);
                     result.Add(movieLengths[i]);
                 }
                 else if (totalMovieLength == flightLength)
