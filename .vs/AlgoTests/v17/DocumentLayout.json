@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AnnAn\\VSCode\\.NETCoreWebAPI\\AlgoTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37881604-7283-4D22-82BE-E25D770F7714}|AlgoTests\\AlgoTests.csproj|c:\\users\\annan\\vscode\\.netcorewebapi\\algotests\\algotests\\housing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37881604-7283-4D22-82BE-E25D770F7714}|AlgoTests\\AlgoTests.csproj|solutionrelative:algotests\\housing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Housing.cs",
+              "DocumentMoniker": "C:\\Users\\AnnAn\\VSCode\\.NETCoreWebAPI\\AlgoTests\\AlgoTests\\Housing.cs",
+              "RelativeDocumentMoniker": "AlgoTests\\Housing.cs",
+              "ToolTip": "C:\\Users\\AnnAn\\VSCode\\.NETCoreWebAPI\\AlgoTests\\AlgoTests\\Housing.cs",
+              "RelativeToolTip": "AlgoTests\\Housing.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAhwFIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T18:57:07.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
