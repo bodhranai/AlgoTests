@@ -35,7 +35,9 @@ namespace AlgoTests
                 grid.Add(i, houses);
 
             }
+            //Act
             var result = GetNeighbours(grid, 11);
+            //Assert
             Assert.AreEqual(result, 25);
             Assert.AreEqual(GetNeighbours(grid,4), 16);
             Assert.AreEqual(GetNeighbours(grid,25), 16);
@@ -50,7 +52,7 @@ namespace AlgoTests
             int numHousesPerRow = map.Values.FirstOrDefault().Keys.Count(); //7
             int numHouses = numRows * numHousesPerRow; //28
             int rowNum = 0;
-            for (int i = 1; i <= map.Count(); i++)// each ( var item in map)
+            for (int i = 1; i <= map.Count(); i++)
             {
                 if (map[i].ContainsKey(houseNum))
                 {
