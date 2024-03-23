@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\AnnAn\\VSCode\\AlgoTests\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37881604-7283-4D22-82BE-E25D770F7714}|AlgoTests\\AlgoTests.csproj|c:\\users\\annan\\vscode\\algotests\\algotests\\hackerrank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37881604-7283-4D22-82BE-E25D770F7714}|AlgoTests\\AlgoTests.csproj|solutionrelative:algotests\\hackerrank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37881604-7283-4D22-82BE-E25D770F7714}|AlgoTests\\AlgoTests.csproj|c:\\users\\annan\\vscode\\algotests\\algotests\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37881604-7283-4D22-82BE-E25D770F7714}|AlgoTests\\AlgoTests.csproj|solutionrelative:algotests\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,28 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HackerRank.cs",
+              "DocumentMoniker": "C:\\Users\\AnnAn\\VSCode\\AlgoTests\\AlgoTests\\HackerRank.cs",
+              "RelativeDocumentMoniker": "AlgoTests\\HackerRank.cs",
+              "ToolTip": "C:\\Users\\AnnAn\\VSCode\\AlgoTests\\AlgoTests\\HackerRank.cs",
+              "RelativeToolTip": "AlgoTests\\HackerRank.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:24:05.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Movies.cs",
               "DocumentMoniker": "C:\\Users\\AnnAn\\VSCode\\AlgoTests\\AlgoTests\\Movies.cs",
               "RelativeDocumentMoniker": "AlgoTests\\Movies.cs",
               "ToolTip": "C:\\Users\\AnnAn\\VSCode\\AlgoTests\\AlgoTests\\Movies.cs",
               "RelativeToolTip": "AlgoTests\\Movies.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAYwC8AAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T19:20:36.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Housing.cs",
               "DocumentMoniker": "C:\\Users\\AnnAn\\VSCode\\AlgoTests\\AlgoTests\\Housing.cs",
               "RelativeDocumentMoniker": "AlgoTests\\Housing.cs",
